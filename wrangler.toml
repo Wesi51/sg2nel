@@ -5,13 +5,13 @@ name = "max-sg1" # todo
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "sg1.sego.biz.id"
+pattern = "sg2.sego.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.sg1.sego.biz.id"
+pattern = "quiz.int.vidio.com.sg2.sego.biz.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.vidio.com.sg1.sego.biz.id"
+pattern = "quiz.vidio.com.sg2.sego.biz.id"
 custom_domain = true
 
 [vars]
@@ -21,4 +21,4 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "b1441400-04e6-470c-8453-0a7876828e08"
+UUID = "aa18ab0a-a800-4f03-b53d-d1ecf89f7edb,fc35c7b9-336c-4bda-825d-05003ccbbcc5"
